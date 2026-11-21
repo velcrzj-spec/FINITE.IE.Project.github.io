@@ -1,4 +1,4 @@
-Steps To Launch
+- Must have github desktop
 - Press the green code button
 - Press the Codespaces tab
 - Press the reimagined enigma (just wait until the loading is finished)
